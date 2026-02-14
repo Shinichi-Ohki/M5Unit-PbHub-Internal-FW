@@ -4,9 +4,8 @@ STM32CubeMX / Keil を使わずに CMake + GCC-ARM でビルドするための�
 
 ## 前提条件
 
-ARM GNU Toolchain をインストール:
-
 ```bash
+brew install cmake
 brew install --cask gcc-arm-embedded
 ```
 
