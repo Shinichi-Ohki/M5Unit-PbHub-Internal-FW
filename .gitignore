@@ -30,4 +30,14 @@
 *.exe
 *.out
 *.app
+
+# CMake build
+cmake/build/
+*.bin
+*.hex
+*.map
+*.elf
+
+# macOS
+.DS_Store
 /code/.DS_Store
